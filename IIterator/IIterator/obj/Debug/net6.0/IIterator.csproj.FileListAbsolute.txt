@@ -1,0 +1,14 @@
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\bin\Debug\net6.0\IIterator.exe
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\bin\Debug\net6.0\IIterator.deps.json
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\bin\Debug\net6.0\IIterator.runtimeconfig.json
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\bin\Debug\net6.0\IIterator.dll
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\bin\Debug\net6.0\IIterator.pdb
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.dll
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\refint\IIterator.dll
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.pdb
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\IIterator.genruntimeconfig.cache
+C:\Users\dmitr\source\repos\DesignPatterns\IIterator\IIterator\obj\Debug\net6.0\ref\IIterator.dll

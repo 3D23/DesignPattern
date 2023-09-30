@@ -1,7 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Buffs",
+    "\\BridgePattern",
     "\\BulderPattern",
     "\\CompositePattern",
     "\\CompositePattern\\CompositePattern",
@@ -11,6 +11,5 @@
     "\\PrototypePattern",
     "\\SingletonePattern"
   ],
-  "SelectedNode": "\\BulderPattern\\Builder.cs",
   "PreviewInSolutionExplorer": false
 }
